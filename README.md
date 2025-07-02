@@ -31,7 +31,7 @@ A **Vision Transformer (ViT)** based web application for pneumonia detection fro
 
 ### 3. Download Pre-trained Models
 
-📁 Download Models from Google Drive: https://drive.google.com/your-drive-link-here
+📁 Download Models from Google Drive: [https://drive.google.com/your-drive-link-here](https://drive.usercontent.google.com/download?id=1sVomCU5emOqAN55vpQpDfZMEQnnJu2Xe&export=download&authuser=0)
 
 After downloading:
 1. Extract the ZIP file
